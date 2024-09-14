@@ -18,4 +18,6 @@ dependencies:
     - pyrocko
     - utm
     - segyio
+    - notebook
+    - pillow
 
