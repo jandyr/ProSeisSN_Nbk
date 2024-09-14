@@ -1,0 +1,33 @@
+name: ProSeisSN
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python>=3.12.5
+  - cartopy
+  - pip
+  - pip:
+    - numpy>=1.15.0
+    - scipy>=1.4.0
+    - matplotlib
+    - seaborn
+    - obspy
+    - jupyterlab
+    - pandas
+    - pyqt5
+    - pyrocko
+    - utm
+    - segyio
+
+# Old stuff to weigh in #
+# - scikit-learn  #  
+#  - scikit-image  # 
+#  - pylops>=2.0.0  # 
+#  - pip:  #
+#    - lasio  #  
+#    - pyproj  #  
+#    - azure-cli  #  
+# Optional package below  in pip:# 
+#    - pylint # linting  # 
+#    - black # formatting  #     
+
