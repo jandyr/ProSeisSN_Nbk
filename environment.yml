@@ -19,15 +19,3 @@ dependencies:
     - utm
     - segyio
 
-# Old stuff to weigh in #
-# - scikit-learn  #  
-#  - scikit-image  # 
-#  - pylops>=2.0.0  # 
-#  - pip:  #
-#    - lasio  #  
-#    - pyproj  #  
-#    - azure-cli  #  
-# Optional package below  in pip:# 
-#    - pylint # linting  # 
-#    - black # formatting  #     
-
